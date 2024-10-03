@@ -1,0 +1,3 @@
+/Users/md.rakibulislam/Practices Different Topics/Threads in OS (Operating System)/Multi_Threads_Parallel/cmake-build-debug/CMakeFiles/Multi_Threads_Parallel.dir
+/Users/md.rakibulislam/Practices Different Topics/Threads in OS (Operating System)/Multi_Threads_Parallel/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/md.rakibulislam/Practices Different Topics/Threads in OS (Operating System)/Multi_Threads_Parallel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
